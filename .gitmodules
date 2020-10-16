@@ -1,0 +1,42 @@
+[submodule "WSL/R3.6.1_provision"]
+	path = WSL/R3.6.1_provision
+	url = git@gist.github.com:8a13108c039c300f930759b3973e604e.git
+[submodule "Qiita/Recreate_specific_point_of_R_with_Vagrant"]
+	path = Qiita/Recreate_specific_point_of_R_with_Vagrant
+	url = git@gist.github.com:6f3079f73f50281226bfc1fa111b440c.git
+[submodule "Qiita/RNotebook_Download_Japanese"]
+	path = Qiita/RNotebook_Download_Japanese
+	url = git@gist.github.com:c735440988453d81239ee8728b9eff5c.git
+[submodule "Qiita/Rmd_slide_with_grid_layout"]
+	path = Qiita/Rmd_slide_with_grid_layout
+	url = git@gist.github.com:c0076588acd43b95ab0f0bea223db125.git
+[submodule "R/SurvivalCART_with_party"]
+	path = R/SurvivalCART_with_party
+	url = git@gist.github.com:ba8294c6a15fdbfa016f48e840c3e0e8.git
+[submodule "Dockerfile/R3.6.3_2020Apr"]
+	path = Dockerfile/R3.6.3_2020Apr
+	url = git@gist.github.com:ffb7e698265eba50eca79663c7544e2a.git
+[submodule "Dockerfile/R3.6.1_2019Dec"]
+	path = Dockerfile/R3.6.1_2019Dec
+	url = git@gist.github.com:7667e0f78556d5d5eee6b130a7655e7e.git
+[submodule "Dockerfile/R4.0.0_20200606"]
+	path = Dockerfile/R4.0.0_20200606
+	url = git@gist.github.com:a5f60498585d39c67fded14a525debe8.git
+[submodule "Dockerfile/R4.0.2_20200626"]
+	path = Dockerfile/R4.0.2_20200626
+	url = git@gist.github.com:c802bb7a54ac5577d0a1a87c34ce79ce.git
+[submodule "Dockerfile/R4.0.2_20200629"]
+	path = Dockerfile/R4.0.2_20200629
+	url = git@gist.github.com:ab52f8381790f610d12953b0a4bc73c7.git
+[submodule "R/furrr_result"]
+	path = R/furrr_result
+	url = git@gist.github.com:88439e504621473518a3e66c4c467753.git
+[submodule "Dockerfile/R4.0.1_2020Jun"]
+	path = Dockerfile/R4.0.1_2020Jun
+	url = git@gist.github.com:595ade9c33836099300b65c1a320541b.git
+[submodule "Dockerfile/R4.0.1_tidyverse_with_TeX"]
+	path = Dockerfile/R4.0.1_tidyverse_with_TeX
+	url = git@gist.github.com:d0aacbf2eed27ec56438dc4a38103b93.git
+[submodule "Dockerfile/R4.0.2_2020Oct"]
+	path = Dockerfile/R4.0.2_2020Oct
+	url = git@gist.github.com:be9e0d8982fd32987dbb5c9552a9d4a7.git
